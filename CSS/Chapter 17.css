@@ -1,0 +1,15 @@
+/* Mike's Cereal Shack */
+
+
+body{
+margin: 0;
+padding: 0;
+
+}
+
+#pageTop {
+
+	width: 100%;
+	height: 100px;
+	background-color: #e987ff;
+}
